@@ -71,8 +71,8 @@ The graph below shows the model's performance during 15 training epochs. It is c
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/Ryftri/calories_nn.git](https://github.com/Ryftri/calories_nn.git)
-    cd your-repository-name
+    git clone https://github.com/Ryftri/calories_nn.git
+    cd calories_nn
     ```
 2.  **Create a Virtual Environment**:
     ```bash
