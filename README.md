@@ -76,9 +76,9 @@ The graph below shows the model's performance during 15 training epochs. It is c
     ```
 2.  **Create a Virtual Environment**:
     ```bash
-    python -m venv venv
-    venv\Scripts\activate  # Windows
-    # source venv/bin/activate  # macOS/Linux
+    python -m venv .venv
+    .venv\Scripts\activate  # Windows
+    # source .venv/bin/activate  # macOS/Linux
     ```
 3.  **Install Dependencies**:
     ```bash
